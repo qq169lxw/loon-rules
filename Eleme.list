@@ -3,9 +3,9 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2025-06-06 09:17:33
 # DOMAIN-SUFFIX: 16
-# DOMAIN: 2
+# DOMAIN: 4
 # DOMAIN-KEYWORD: 2
-# TOTAL: 20
+# TOTAL: 22
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to
 DOMAIN-SUFFIX,eleme.cn
@@ -29,3 +29,6 @@ DOMAIN-KEYWORD,tmcs
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
+# 淘宝 SDK 直连补充 (2026-11-03)
+DOMAIN,adashx.m.taobao.com
+DOMAIN,atoken.m.taobao.com
